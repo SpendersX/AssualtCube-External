@@ -1,0 +1,100 @@
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\GhostLoader.exe
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\GhostLoader.deps.json
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\GhostLoader.runtimeconfig.json
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\GhostLoader.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\GhostLoader.pdb
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\ClickableTransparentOverlay.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\ImGui.NET.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\NativeLibraryLoader.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\SharpGen.Runtime.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\SharpGen.Runtime.COM.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\SixLabors.ImageSharp.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\swed64.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\Veldrid.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\Veldrid.MetalBindings.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\Veldrid.OpenGLBindings.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\vk.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\Vortice.D3DCompiler.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\Vortice.Direct3D11.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\Vortice.DirectX.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\Vortice.DXGI.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\Vortice.Mathematics.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\linux-x64\native\libcimgui.so
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\osx\native\libcimgui.dylib
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\win-arm64\native\cimgui.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\win-x64\native\cimgui.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\win-x86\native\cimgui.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.csproj.AssemblyReference.cache
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.AssemblyInfoInputs.cache
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.AssemblyInfo.cs
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.csproj.CoreCompileInputs.cache
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.csproj.CopyComplete
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\obj\Release\net8.0\refint\GhostLoader.dll
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.pdb
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.genruntimeconfig.cache
+C:\Users\xvani\Desktop\GhostLoader\GhostLoader\obj\Release\net8.0\ref\GhostLoader.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\GhostLoader.exe
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\GhostLoader.deps.json
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\GhostLoader.runtimeconfig.json
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\GhostLoader.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\GhostLoader.pdb
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\ClickableTransparentOverlay.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\ImGui.NET.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\NativeLibraryLoader.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\SharpGen.Runtime.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\SharpGen.Runtime.COM.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\SixLabors.ImageSharp.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\swed64.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\Veldrid.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\Veldrid.MetalBindings.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\Veldrid.OpenGLBindings.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\vk.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\Vortice.D3DCompiler.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\Vortice.Direct3D11.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\Vortice.DirectX.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\Vortice.DXGI.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\Vortice.Mathematics.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\linux-x64\native\libcimgui.so
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\osx\native\libcimgui.dylib
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\win-arm64\native\cimgui.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\win-x64\native\cimgui.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\win-x86\native\cimgui.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.csproj.AssemblyReference.cache
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.AssemblyInfoInputs.cache
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.AssemblyInfo.cs
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.csproj.CoreCompileInputs.cache
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.csproj.CopyComplete
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\obj\Release\net8.0\refint\GhostLoader.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.pdb
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\obj\Release\net8.0\GhostLoader.genruntimeconfig.cache
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\obj\Release\net8.0\ref\GhostLoader.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\EasyHook.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\KeraLua.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\Memory.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\NLua.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\android-arm\native\liblua54.so
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\android-arm64\native\liblua54.so
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\android-x64\native\liblua54.so
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\android-x86\native\liblua54.so
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\ios\native\liblua54.framework\Info.plist
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\ios\native\liblua54.framework\liblua54
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\linux-x64\native\liblua54.so
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\maccatalyst\native\liblua54.framework\Info.plist
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\maccatalyst\native\liblua54.framework\liblua54
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\osx\native\liblua54.dylib
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\tvos\native\liblua54.framework\Info.plist
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\tvos\native\liblua54.framework\liblua54
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\win-arm\native\lua54.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\win-arm64\native\lua54.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\win-x64\native\lua54.dll
+C:\Users\xvani\Desktop\Trainers\Ghost Cube Source\GhostLoader\GhostLoader\bin\Release\net8.0\runtimes\win-x86\native\lua54.dll
